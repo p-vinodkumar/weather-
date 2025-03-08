@@ -118,9 +118,4 @@ Include details on API endpoints if the application exposes one. For example:
 --- 
 ---
 
-## Contact
 
-- **Name:** [Your Name]
-- **Email:** [Your Email]
-- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub:** [GitHub Profile](https://github.com/yourprofile)
